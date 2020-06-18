@@ -1,4 +1,4 @@
-[
+[{
 	'todos': [{
 			'id': 0,
 			'text': 'menyapu',
@@ -15,4 +15,4 @@
 			'completed': false,
 		}
 	]
-]
+}]
