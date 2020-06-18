@@ -1,0 +1,7 @@
+{
+"todos":[
+{"id" : 0, "text" : "menyapu","completed":false},
+{"id" : 1, "text" : "mandi","completed":false},
+{"id" : 2, "text" : "cuci baju","completed":false},
+]
+}
